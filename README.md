@@ -15,9 +15,8 @@
 
 ### Sobre mim
 
-- Cursando **Bacharelado em Ciências e Tecnologias** na UFABC, com foco futuro em Ciência da Computação / Data Science
+- Cursando **Bacharelado em Ciências e Tecnologias** na UFABC, com foco em Ciência de Dados
 - Formada em **Desenvolvimento de Sistemas** pela ETEC Lauro Gomes
-- Trabalhando com **dados e analytics**, unindo SQL, Power BI e visualização de dados
 - Autora do **Megamind**, um app educacional (TCC) com versões Android e Web
 - Sempre estudando algo novo
 
