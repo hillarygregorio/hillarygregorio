@@ -16,6 +16,7 @@
 
 - Cursando **Bacharelado em Ciências e Tecnologias** na UFABC, com foco em Ciência de Dados
 - Formada em **Desenvolvimento de Sistemas** pela ETEC Lauro Gomes
+- Estagiária em Dados & Analytics de Atendimento
 - Autora do **Megamind**, um app educacional (TCC) com versões Android e Web
 - Sempre estudando algo novo
 
