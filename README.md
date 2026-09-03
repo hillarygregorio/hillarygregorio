@@ -14,9 +14,9 @@
 
 ### Sobre mim
 
-- Cursando **Bacharelado em Ciências e Tecnologias** na UFABC, com foco em Ciência de Dados
+- Cursando **Bacharelado em Ciências e Tecnologias** na UFABC, com foco futuro em Ciência da Computação / Data Science
 - Formada em **Desenvolvimento de Sistemas** pela ETEC Lauro Gomes
-- Estagiária em Dados & Analytics de Atendimento
+- Trabalhando com **dados e analytics**, unindo SQL, Power BI e visualização de dados
 - Autora do **Megamind**, um app educacional (TCC) com versões Android e Web
 - Sempre estudando algo novo
 
@@ -46,12 +46,28 @@ Inclui dashboard de desempenho com Chart.js, sistema de prática de questões co
 ### GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=hillarygregorio&show_icons=true&hide_border=true&count_private=true&bg_color=1A120B&title_color=F4C430&text_color=E8D9C5&icon_color=D9A441" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=hillarygregorio&show_icons=true&hide_border=true&bg_color=1A120B&title_color=F4C430&text_color=E8D9C5&icon_color=D9A441" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hillarygregorio&layout=compact&hide_border=true&bg_color=1A120B&title_color=F4C430&text_color=E8D9C5" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hillarygregorio&hide_border=true&background=1A120B&ring=F4C430&fire=E8B923&currStreakLabel=F4C430&sideLabels=E8D9C5&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=C8B39D&stroke=8B5A2B" />
+</p>
+
+---
+
+### Troféus
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=hillarygregorio&theme=gruvbox&no-frame=true&margin-w=8&margin-h=8&column=-1" />
+</p>
+
+---
+
+### Atividade
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/hillarygregorio/hillarygregorio/output/snake.svg" />
 </p>
 
 ---
