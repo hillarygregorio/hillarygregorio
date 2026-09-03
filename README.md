@@ -7,7 +7,6 @@
   <img src="https://img.shields.io/badge/BACHARELADO%20EM%20C%26T-8B5A2B?style=for-the-badge&labelColor=3E2723" />
   <img src="https://img.shields.io/badge/FOCO-A9744F?style=for-the-badge&labelColor=3E2723" />
   <img src="https://img.shields.io/badge/DADOS%20%26%20ANALYTICS-D9A441?style=for-the-badge&labelColor=3E2723" />
-  <img src="https://img.shields.io/badge/STATUS-F4C430?style=for-the-badge&labelColor=3E2723" />
   <img src="https://img.shields.io/badge/ESTAGIÁRIA-E8B923?style=for-the-badge&labelColor=3E2723" />
 </p>
 
