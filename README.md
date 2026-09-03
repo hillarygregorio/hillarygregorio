@@ -39,7 +39,7 @@
 ### Projeto em destaque
 
 **[Megamind](https://github.com/etecluehi-cloud/APP_MEGAMIND)** — App educacional (TCC) com versões Android (Java + Firebase) e Web.
-Inclui dashboard de desempenho com Chart.js, sistema de prática de questões com gamificação (XP/streak), metas diárias e painel admin com CRUD via Firebase.
+Inclui dashboard de desempenho, sistema de prática de questões com gamificação (XP/streak), metas diárias e painel admin via Firebase.
 
 ---
 
